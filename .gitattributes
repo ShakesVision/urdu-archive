@@ -1,0 +1,10 @@
+# Treat all dictionary files as binary
+*.dict   binary
+*.idx    binary
+*.ifo    binary
+*.dz     binary
+*.dsl    binary
+*.mdx    binary
+*.7z     binary
+*.zip    binary
+*.txt    text eol=lf
