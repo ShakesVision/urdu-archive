@@ -33,7 +33,38 @@ The following threads contain discussions related to these dictionaries:
 | DSL                       | ABBYY Lingvo        |
 | MDict (`mdx mdd`)         | Mobile dictionaries |
 
----
+
+## How to use and prepare them
+
+Besides storing the dictionary files here, we’ve collected all the necessary tools and instructions in one place.
+
+Under the **`TOOLS`** folder, we’ve included **dictzip** (with an `.exe` you can put in any folder and add to your `PATH`) and its source code. On Linux, dictzip is straightforward to use; on Windows, we used this [port](https://github.com/KaseyJenkins/dictzip-win64/releases/tag/v1.0.0).
+
+We also came across [stardict.js](https://github.com/tuxor1337/stardict.js) before building our own web implementation.
+
+### Convert DSL → StarDict
+
+To convert a DSL file for GoldenDict, use **PyGlossary** (`pip install pyglossary`):
+
+```bash
+pyglossary UrduLughat.dsl UrduLughat.ifo
+```
+
+Output:
+
+```text
+UrduLughat.dict
+UrduLughat.idx
+UrduLughat.ifo
+```
+
+The `.dict` is usable but large. Compress it for efficiency:
+
+```bash
+dictzip -k UrduLughat.dict
+```
+
+The `-k` flag keeps the original file. After compressing, you can safely delete the `.dsl` and `.dict` files — the `.dict.dz` versions are enough.
 
 ## Additional Lists
 
@@ -81,3 +112,5 @@ In case you want to keep checking what these wonderful people are doing, here ar
 3. https://github.com/azeemdin
 4. https://github.com/inshapardaz
 5. https://github.com/Rana1889
+6. syed zeesh
+7. saadat
