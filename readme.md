@@ -106,11 +106,12 @@ Several useful lists are included as part of **uTools**:
 * The repo also includes other important corpus and reference materials.
 
 ## Github profiles of Mehfilians
-In case you want to keep checking what these wonderful people are doing, here are some of the github profiles.
-1. https://github.com/urduweb
-2. https://github.com/shakesvision (me)
-3. https://github.com/azeemdin
-4. https://github.com/inshapardaz
-5. https://github.com/Rana1889
-6. syed zeesh
-7. saadat
+In case you want to keep checking what these wonderful people are doing, here are some of the github profiles:
+1. https://github.com/shakesvision (me)
+2. https://github.com/urduweb
+3. https://github.com/ibnesayeed
+4. https://github.com/azeemdin
+5. https://github.com/inshapardaz
+6. https://github.com/Rana1889
+7. https://github.com/sayedzeeshan
+8. https://github.com/saadatm
