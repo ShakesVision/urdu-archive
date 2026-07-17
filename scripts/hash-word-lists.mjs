@@ -9,6 +9,7 @@ const files = [
   "Farsi.txt",
   "Roman.txt",
   "pairlst.txt",
+  "PureHindi.txt",
 ];
 
 const manifest = {

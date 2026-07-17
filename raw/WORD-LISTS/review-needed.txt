@@ -1,0 +1,26 @@
+# Urdu\twazn entries excluded from Hindi.txt/Roman.txt: unknown characters or empty conversion output.
+# Re-run scripts/generate-word-lists.mjs after extending scripts/lib/transliterate.mjs.
+آواھَن	212
+اَنگِیْھٹی	222
+اِکْواھی	212
+باھَتَّر	122
+تَخْطِۂَ	211
+تَنْزِیھ	22
+جَوزَۂ	22
+جیھں	2
+دَھَھَنّادَن	222
+ع	1
+عَنبَۂ	22
+لَوھْری	22
+میھنڈ	21
+نِدروھ	22
+نیھ	2
+نیھڑ	21
+ویاوَھارِک	1222
+َ	1
+ُ	1
+ِ	1
+چِیَھر	12
+گیَھ	11
+گیۂ	21
+ھَدَاکَ	121

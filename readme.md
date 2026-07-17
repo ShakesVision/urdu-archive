@@ -68,6 +68,12 @@ The `-k` flag keeps the original file. After compressing, you can safely delete 
 
 ## Additional Lists
 
+* `raw/WORD-LISTS/PureHindi.txt` — 207,559 native Hindi headwords extracted from the
+  LibreOffice `hi_IN` Hunspell dictionary (GPL, janabhaaratii project). Unlike
+  `Hindi.txt` (a Devanagari transliteration of the Urdu master list), this one
+  covers tatsam/tadbhav Sanskrit-origin words with no Urdu equivalent. See
+  `raw/WORD-LISTS/hindi-hunspell/README.md` for provenance and license details.
+
 Several useful lists are included as part of **uTools**:
 
 * [uTools replacer lists](https://github.com/ShakesVision/uTools-public/tree/master/replacer-lists)
