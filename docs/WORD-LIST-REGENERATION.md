@@ -1,38 +1,5 @@
 # Word List Regeneration (Hindi + Roman)
 
-> **Status (2026-07-17): done, via a deterministic engine instead of AI batches.**
-> `UrduLughatWithTaqti.txt` turned out to carry full harakat (zabar/zer/pesh/
-> sukun/shadda) on most letters — exactly the information an LLM would
-> otherwise have to guess at from bare Urdu script. `scripts/lib/transliterate.mjs`
-> is a rule-based Urdu→Devanagari/Roman converter driven by those diacritics,
-> run over all 92,047 entries by `scripts/generate-word-lists.mjs`. This is
-> more accurate and 100% reproducible than batched AI generation, so it
-> replaced the "AI-assisted workflow" below as the primary method. Results:
->
-> | | Hindi.txt | Roman.txt |
-> |--|--|--|
-> | Entries shipped | 86,907 | 84,437 |
-> | Coverage of Urdu master | 94.4% | 91.7% |
-> | Collisions collapsed (dedup) | 5,116 | 7,586 |
->
-> - 24 entries (stray diacritic-only "words", unhandled rare ligatures like
->   `ۂ`) were excluded outright — see `raw/WORD-LISTS/review-needed.txt`.
-> - ~20,700 shipped entries came from source lines with sparse/no diacritics
->   (function words like `کیا`/`ہے` are conventionally left unvocalized even
->   in "full" Urdu dictionaries); these are flagged, not excluded, in
->   `raw/WORD-LISTS/low-confidence.txt` for a future human spot-check pass.
-> - Known, deliberate ASCII collisions in Roman.txt (documented in
->   `transliterate.mjs`'s header comment): `t`←ت/ٹ/ط, `d`←د/ڈ, `r`←ر/ڑ,
->   `s`←س/ث/ص, `z`←ذ/ز/ض/ظ, `kh`←خ and کھ(aspirate), `gh`←غ and گھ(aspirate).
-> - To regenerate after tweaking the engine: `node scripts/generate-word-lists.mjs`
->   then `node scripts/validate-word-list.mjs raw/WORD-LISTS/Hindi.txt` (and
->   `Roman.txt`), then `node scripts/hash-word-lists.mjs`, then update
->   `qaafiyah-public/word-lists-manifest.json`'s `hi`/`en` entries.
-> - Legacy 2019 lists were preserved in `raw/WORD-LISTS/legacy/` before this
->   run per Phase 0 below.
-> - Remaining: enabling the wazn filter chips for `hi`/`en` in Tab1 is an
->   app-side (`qaafiyahSrc`) follow-up, not part of this data regeneration.
-
 ## Why regenerate?
 
 `Hindi.txt` and `Roman.txt` in `raw/WORD-LISTS/` are legacy (~2018–2019) exports:
