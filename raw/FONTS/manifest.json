@@ -1,0 +1,424 @@
+{
+  "version": 1,
+  "updatedAt": "2026-07-23",
+  "previewText": "شاعری خوش خط نستعلیق — الف ب پ ت",
+  "baseUrl": "https://cdn.jsdelivr.net/gh/ShakesVision/urdu-archive@master/raw/FONTS",
+  "fonts": [
+    {
+      "id": "1-muhammadi-quranic",
+      "name": "1 MUHAMMADI QURANIC",
+      "path": "1 MUHAMMADI QURANIC.ttf",
+      "format": "truetype",
+      "size": 792368,
+      "sha256": "2962ECC3231043529BCC4C483510E6CDF26DF0F2ABFE9DA0CC752C859068C26F"
+    },
+    {
+      "id": "urdu-web-fonts-adobearabic-regular",
+      "name": "AdobeArabic Regular",
+      "path": "urdu-web-fonts/AdobeArabic-Regular.woff2",
+      "format": "woff2",
+      "size": 81660,
+      "sha256": "1D48EA49D7D93ED8B2DBC79273F59AFB90BB7103D23954B2EFF481B4A98BB315"
+    },
+    {
+      "id": "urdu-web-fonts-alvilahorinastaleeq",
+      "name": "AlviLahoriNastaleeq",
+      "path": "urdu-web-fonts/AlviLahoriNastaleeq.woff2",
+      "format": "woff2",
+      "size": 5231136,
+      "sha256": "982824738BE660FA8D6BF748CB1DE2A139470A8490D8635F449475A54EBD2841"
+    },
+    {
+      "id": "urdu-web-fonts-amiri-bold",
+      "name": "Amiri Bold",
+      "path": "urdu-web-fonts/Amiri-Bold.woff2",
+      "format": "woff2",
+      "size": 150992,
+      "sha256": "DE86C72606D6ED5C18551E13CE4A4EDDE6BA765EAD7D129D4839248F6B6B343C"
+    },
+    {
+      "id": "urdu-web-fonts-amiri-bolditalic",
+      "name": "Amiri BoldItalic",
+      "path": "urdu-web-fonts/Amiri-BoldItalic.woff2",
+      "format": "woff2",
+      "size": 156004,
+      "sha256": "1F2F10CF80790E38110778DBBEE560CC7F453467E68AF80B501AD73D34698BF7"
+    },
+    {
+      "id": "urdu-web-fonts-amiri-italic",
+      "name": "Amiri Italic",
+      "path": "urdu-web-fonts/Amiri-Italic.woff2",
+      "format": "woff2",
+      "size": 166468,
+      "sha256": "8082423E3481CEC015BD9010B4B89A691233FB6347A1019CC8F3DF4119D58082"
+    },
+    {
+      "id": "urdu-web-fonts-amiri-regular",
+      "name": "Amiri Regular",
+      "path": "urdu-web-fonts/Amiri-Regular.woff2",
+      "format": "woff2",
+      "size": 160372,
+      "sha256": "6334DD0D383A87F48F74F4A2EC70CBBEDE213DDC13E982698CBB1DBB92363DE9"
+    },
+    {
+      "id": "urdu-web-fonts-arefruqaa-bold",
+      "name": "ArefRuqaa Bold",
+      "path": "urdu-web-fonts/ArefRuqaa-Bold.woff2",
+      "format": "woff2",
+      "size": 63980,
+      "sha256": "FC166F1793B7033859BD00DF7AE089D4C700FE90E56301EBC075E835A3DD0A4B"
+    },
+    {
+      "id": "urdu-web-fonts-arefruqaa-regular",
+      "name": "ArefRuqaa Regular",
+      "path": "urdu-web-fonts/ArefRuqaa-Regular.woff2",
+      "format": "woff2",
+      "size": 56628,
+      "sha256": "00337B6E2A6B1A61A13E857986D82C89150C35DD57C4858B53A5A3F41CF6BE7D"
+    },
+    {
+      "id": "asif-quranic",
+      "name": "Asif Quranic",
+      "path": "Asif Quranic.ttf",
+      "format": "truetype",
+      "size": 572500,
+      "sha256": "0EE8868063A68C878ACDC40A539769DA6700107F07DD43D5752DF553B235D9D0"
+    },
+    {
+      "id": "aslam",
+      "name": "Aslam",
+      "path": "Aslam.ttf",
+      "format": "truetype",
+      "size": 128420,
+      "sha256": "35A475BB161A376A99C97D6396F04411D7A2BFF53567862884C90B4C8738BE37"
+    },
+    {
+      "id": "urdu-web-fonts-dehalvikhushkhat",
+      "name": "DehalviKhushKhat",
+      "path": "urdu-web-fonts/DehalviKhushKhat.woff2",
+      "format": "woff2",
+      "size": 150312,
+      "sha256": "E1C7C4DB2A18D06F75B78DA83FAC5BBF0C81312E9D372120A7DAD7C8144BDDB2"
+    },
+    {
+      "id": "diwanltr",
+      "name": "Diwanltr",
+      "path": "Diwanltr.ttf",
+      "format": "truetype",
+      "size": 84100,
+      "sha256": "6C18219CAA1AF045E33F91B6A93179C53926E190EF68696500D290B540C128C3"
+    },
+    {
+      "id": "urdu-web-fonts-dubai",
+      "name": "dubai",
+      "path": "urdu-web-fonts/dubai.woff2",
+      "format": "woff2",
+      "size": 52116,
+      "sha256": "30B4E291A907FFB8458798F4003BBAF97260977835B0E49018C0C7F6BC53D6D3"
+    },
+    {
+      "id": "urdu-web-fonts-emad-nastaleeq",
+      "name": "emad nastaleeq",
+      "path": "urdu-web-fonts/emad-nastaleeq.woff2",
+      "format": "woff2",
+      "size": 86808,
+      "sha256": "027730C3B0FD837026D866C6CAB45698719860441A14189FF0FDA0284AC1473E"
+    },
+    {
+      "id": "faizlahorinastaleeq2",
+      "name": "FaizLahoriNastaleeq2",
+      "path": "FaizLahoriNastaleeq2.otf",
+      "format": "opentype",
+      "size": 24620368,
+      "sha256": "48FB59F7D2F8A88137B9CAC8C0BB9298132A252D6228808548009C7449842CD8"
+    },
+    {
+      "id": "urdu-web-fonts-gulzar-nastalique",
+      "name": "gulzar nastalique",
+      "path": "urdu-web-fonts/gulzar-nastalique.woff2",
+      "format": "woff2",
+      "size": 240752,
+      "sha256": "4D48899A7DAA0E06BDAB75A572D012E642E8976299707B705E21DFA3A4320B61"
+    },
+    {
+      "id": "urdu-web-fonts-jameel-khushkhati",
+      "name": "jameel khushkhati",
+      "path": "urdu-web-fonts/jameel-khushkhati.woff2",
+      "format": "woff2",
+      "size": 120004,
+      "sha256": "95A5D1BE6162E40EE64B1C4E73273BD7DA1E4A73A17D342D739240495BC463DF"
+    },
+    {
+      "id": "urdu-web-fonts-jameelnoorinastaleeq",
+      "name": "JameelNooriNastaleeq",
+      "path": "urdu-web-fonts/JameelNooriNastaleeq.woff2",
+      "format": "woff2",
+      "size": 6870588,
+      "sha256": "24D6386DE44B4E053C7604CCCC343807186EEB3B9E9631C335EEE45CE1626C71"
+    },
+    {
+      "id": "jameelnoorinastaleeq4",
+      "name": "JameelNooriNastaleeq4",
+      "path": "JameelNooriNastaleeq4.otf",
+      "format": "opentype",
+      "size": 27501652,
+      "sha256": "B1467C9C1AFD595ACA006C288107263BB70888F46E6D4EB69068FBFEE6377ED3"
+    },
+    {
+      "id": "urdu-web-fonts-jameelnoorinastaleeqkasheeda",
+      "name": "JameelNooriNastaleeqKasheeda",
+      "path": "urdu-web-fonts/JameelNooriNastaleeqKasheeda.woff2",
+      "format": "woff2",
+      "size": 4752720,
+      "sha256": "D7B75954C41EAF6125C4347344BF1DE8F2052F5C08D52F875A1063E1C56655B3"
+    },
+    {
+      "id": "urdu-web-fonts-lalezar-regular",
+      "name": "Lalezar Regular",
+      "path": "urdu-web-fonts/Lalezar-Regular.woff2",
+      "format": "woff2",
+      "size": 82456,
+      "sha256": "44EF30AC9A9788009FAC6F0F5159BE683E262EA7E982E46240CBB8D03B1B1A34"
+    },
+    {
+      "id": "urdu-web-fonts-lateef-bold",
+      "name": "Lateef Bold",
+      "path": "urdu-web-fonts/Lateef-Bold.woff2",
+      "format": "woff2",
+      "size": 80036,
+      "sha256": "86646CEFA0F6BBA99627ABB427454630C7BBAC7EF54F17F6F995250B25F2BE1C"
+    },
+    {
+      "id": "urdu-web-fonts-lateef-extrabold",
+      "name": "Lateef ExtraBold",
+      "path": "urdu-web-fonts/Lateef-ExtraBold.woff2",
+      "format": "woff2",
+      "size": 77264,
+      "sha256": "C1BFAE64328840670FC6F1E3553D00DD521B1CD135B8777D8380161E6FD2A420"
+    },
+    {
+      "id": "urdu-web-fonts-lateef-extralight",
+      "name": "Lateef ExtraLight",
+      "path": "urdu-web-fonts/Lateef-ExtraLight.woff2",
+      "format": "woff2",
+      "size": 75548,
+      "sha256": "E932F7D64E1F01DFCF5E5B3DA8B11039BBA9565D608CFE7BED223B5AD199EF4A"
+    },
+    {
+      "id": "urdu-web-fonts-lateef-light",
+      "name": "Lateef Light",
+      "path": "urdu-web-fonts/Lateef-Light.woff2",
+      "format": "woff2",
+      "size": 77376,
+      "sha256": "9CEBF2923A3801E7C4FD6960F2451A20DF29F4893DFB602DC7F00547DC96F254"
+    },
+    {
+      "id": "urdu-web-fonts-lateef-medium",
+      "name": "Lateef Medium",
+      "path": "urdu-web-fonts/Lateef-Medium.woff2",
+      "format": "woff2",
+      "size": 79728,
+      "sha256": "F165B360DA1F63C5DE70D3EC1366AA0156B198D3B847673FFAE0586CDBA9B726"
+    },
+    {
+      "id": "urdu-web-fonts-lateef-regular",
+      "name": "Lateef Regular",
+      "path": "urdu-web-fonts/Lateef-Regular.woff2",
+      "format": "woff2",
+      "size": 76016,
+      "sha256": "2F18EFB5076346C295442E7E0F9291FAAC617D66E2EECCC6DFAE33FF64160629"
+    },
+    {
+      "id": "urdu-web-fonts-lateef-semibold",
+      "name": "Lateef SemiBold",
+      "path": "urdu-web-fonts/Lateef-SemiBold.woff2",
+      "format": "woff2",
+      "size": 78768,
+      "sha256": "B4922792C22BDF6B08EE3A75EFC6C4C353EA74DBB9690A5DD3C7D5830FDE6B1E"
+    },
+    {
+      "id": "urdu-web-fonts-mada-black",
+      "name": "Mada Black",
+      "path": "urdu-web-fonts/Mada-Black.woff2",
+      "format": "woff2",
+      "size": 17272,
+      "sha256": "FF6F5BE34CD0AD19AD3AA7DDFBF61C7A45598B17C20366AD715B64AB56721482"
+    },
+    {
+      "id": "urdu-web-fonts-mada-bold",
+      "name": "Mada Bold",
+      "path": "urdu-web-fonts/Mada-Bold.woff2",
+      "format": "woff2",
+      "size": 17656,
+      "sha256": "15C2E1630E505536EB806438478C69346244A883963E62B271CC650E7A193152"
+    },
+    {
+      "id": "urdu-web-fonts-mada-extralight",
+      "name": "Mada ExtraLight",
+      "path": "urdu-web-fonts/Mada-ExtraLight.woff2",
+      "format": "woff2",
+      "size": 17564,
+      "sha256": "6519225F4264B59B8BCAC2FBD84F016BC4143D57D89F4C6AED483CC02F004ABE"
+    },
+    {
+      "id": "urdu-web-fonts-mada-light",
+      "name": "Mada Light",
+      "path": "urdu-web-fonts/Mada-Light.woff2",
+      "format": "woff2",
+      "size": 17848,
+      "sha256": "DFA774557CF4927218936E2BE6A88C7F287287300333B4811141591DEC77BC26"
+    },
+    {
+      "id": "urdu-web-fonts-mada-medium",
+      "name": "Mada Medium",
+      "path": "urdu-web-fonts/Mada-Medium.woff2",
+      "format": "woff2",
+      "size": 17868,
+      "sha256": "07DE57B1438D597FB0EA5E9E82CD2F2D730803445745032D6C1D25164D34BE09"
+    },
+    {
+      "id": "urdu-web-fonts-mada-regular",
+      "name": "Mada Regular",
+      "path": "urdu-web-fonts/Mada-Regular.woff2",
+      "format": "woff2",
+      "size": 17984,
+      "sha256": "DE1CCFF4AC018A50A69EDAA2C36391D133F5A15B88A5276BB04998D04B324F32"
+    },
+    {
+      "id": "urdu-web-fonts-mada-semibold",
+      "name": "Mada SemiBold",
+      "path": "urdu-web-fonts/Mada-SemiBold.woff2",
+      "format": "woff2",
+      "size": 17892,
+      "sha256": "C2B3469262D7EBD536BDF7C37320671811B7A6E3D39A52762168BFEFE5222671"
+    },
+    {
+      "id": "urdu-web-fonts-mehr-nastaliq-web",
+      "name": "Mehr Nastaliq Web",
+      "path": "urdu-web-fonts/Mehr-Nastaliq-Web.woff2",
+      "format": "woff2",
+      "size": 43100,
+      "sha256": "BC322B174EB1C4665589E467A1549FF9FD2D947319E8ABBBBA1FCF3775FF7BDB"
+    },
+    {
+      "id": "urdu-web-fonts-mehrnastaliqweb",
+      "name": "MehrNastaliqWeb",
+      "path": "urdu-web-fonts/MehrNastaliqWeb.woff2",
+      "format": "woff2",
+      "size": 55176,
+      "sha256": "F53144695BE5AD5CAE1A42AE26E5AB300324FADF2075BA1CC7A170EF84661D6D"
+    },
+    {
+      "id": "payaminastaleeq",
+      "name": "PayamiNastaleeq",
+      "path": "PayamiNastaleeq.ttf",
+      "format": "truetype",
+      "size": 13617344,
+      "sha256": "02E7A6062F4ABCC7C74AEAB582C765239847AF421ED51C4FD7ADE6C9B73CD59E"
+    },
+    {
+      "id": "urdu-web-fonts-qahiri-regular",
+      "name": "Qahiri Regular",
+      "path": "urdu-web-fonts/Qahiri-Regular.woff2",
+      "format": "woff2",
+      "size": 14024,
+      "sha256": "D41F1B55E3CE6736F6EE39B6B41C6F9699520FF68871B35DA876F1A025B8C62E"
+    },
+    {
+      "id": "urdu-web-fonts-reemkufi-bold",
+      "name": "ReemKufi Bold",
+      "path": "urdu-web-fonts/ReemKufi-Bold.woff2",
+      "format": "woff2",
+      "size": 34932,
+      "sha256": "FAAEED436AE7F5B1A5CE1E789FED3D349E0501AE53DB15F999C912E45953A8D8"
+    },
+    {
+      "id": "urdu-web-fonts-reemkufi-medium",
+      "name": "ReemKufi Medium",
+      "path": "urdu-web-fonts/ReemKufi-Medium.woff2",
+      "format": "woff2",
+      "size": 35884,
+      "sha256": "57805DB47D8386D9A73C6BDC5B8167BB7DC7F13DA8654C39AA5236CE865E1764"
+    },
+    {
+      "id": "urdu-web-fonts-reemkufi-regular",
+      "name": "ReemKufi Regular",
+      "path": "urdu-web-fonts/ReemKufi-Regular.woff2",
+      "format": "woff2",
+      "size": 35340,
+      "sha256": "3B623AB0D4CCB1B11962E6851B2E93F1150A47AA6B5BD068CA0F6A6E11F4B979"
+    },
+    {
+      "id": "urdu-web-fonts-reemkufi-semibold",
+      "name": "ReemKufi SemiBold",
+      "path": "urdu-web-fonts/ReemKufi-SemiBold.woff2",
+      "format": "woff2",
+      "size": 35816,
+      "sha256": "D206759E1495594F5E1F993321F1F51F5A0FAD10178E8C13303C7855E4C6931A"
+    },
+    {
+      "id": "urdu-web-fonts-sameerkhashab-bold",
+      "name": "SameerKhashab Bold",
+      "path": "urdu-web-fonts/SameerKhashab-Bold.woff2",
+      "format": "woff2",
+      "size": 39536,
+      "sha256": "2C95E0E605E8EBF897FC287E6037E8C157B469C191146F4F0137ED2219386C4F"
+    },
+    {
+      "id": "urdu-web-fonts-scheherazadenew-bold",
+      "name": "ScheherazadeNew Bold",
+      "path": "urdu-web-fonts/ScheherazadeNew-Bold.woff2",
+      "format": "woff2",
+      "size": 129472,
+      "sha256": "2F367561E28B510C42184D2D9DE72168BA932070A1C11EDCD4B2D88F1F468D56"
+    },
+    {
+      "id": "urdu-web-fonts-scheherazadenew-medium",
+      "name": "ScheherazadeNew Medium",
+      "path": "urdu-web-fonts/ScheherazadeNew-Medium.woff2",
+      "format": "woff2",
+      "size": 142056,
+      "sha256": "637D84648816B41AA0BE7DE4640925B447F62B36D96A961ADF4D5F17D24163FE"
+    },
+    {
+      "id": "urdu-web-fonts-scheherazadenew-regular",
+      "name": "ScheherazadeNew Regular",
+      "path": "urdu-web-fonts/ScheherazadeNew-Regular.woff2",
+      "format": "woff2",
+      "size": 117504,
+      "sha256": "4CC1869DFA07D7CE8B72302BAAFF2BE3F3FF829DC5BFF4C0AC9AA70106C42E41"
+    },
+    {
+      "id": "urdu-web-fonts-scheherazadenew-semibold",
+      "name": "ScheherazadeNew SemiBold",
+      "path": "urdu-web-fonts/ScheherazadeNew-SemiBold.woff2",
+      "format": "woff2",
+      "size": 144240,
+      "sha256": "AB661625D382B9CE38BE53099B70BBFF686F8CE9F3D6DA6BFD606AFFBA7D2732"
+    },
+    {
+      "id": "urdu-symbol",
+      "name": "Urdu Symbol",
+      "path": "Urdu Symbol.ttf",
+      "format": "truetype",
+      "size": 151620,
+      "sha256": "1889A3922E5F286CADA2BA3E5B215EF054745D1638F060DE5B74F16BEE417DA7"
+    },
+    {
+      "id": "urdu-symbol1",
+      "name": "Urdu Symbol1",
+      "path": "Urdu Symbol1.ttf",
+      "format": "truetype",
+      "size": 216344,
+      "sha256": "707B1051F6EEA34CCC05B9757F9CAB6294597162013EDD58BCF571E9F8F3DC0F"
+    },
+    {
+      "id": "urdu-symbol2",
+      "name": "Urdu Symbol2",
+      "path": "Urdu Symbol2.ttf",
+      "format": "truetype",
+      "size": 153652,
+      "sha256": "4372597048CB40130B835188AE287AFC7BA34620593DD8F7346D8D3C8132F5B6"
+    }
+  ]
+}
